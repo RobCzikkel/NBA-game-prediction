@@ -1,5 +1,5 @@
 <center><h1>NBA game prediction</h1></center>
-<center>practise project</center>
+<center>practice project</center>
 
 ---
 This project is a part of my portfolio and its aim is to simply showcase some of my skills in acquiring and analysing data. <br>
