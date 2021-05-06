@@ -17,7 +17,7 @@ Being a basketball fan/player with a growing interest in Data Science and ML I t
 The project is based on the assumption that this year's NBA finals will be between the Los Angeles Lakers and the Brooklyn Nets, so esssentially the models are used to predict a potential matchup in the finals between these two teams.
 <br>
 <br>
-I have scraped stats of games between the two teams going back 30 years from basketball-reference.com and then fed these stats into a number of classification models in scikit-learn to predict wins/losses.
+I have scraped stats of games between the two teams going back 30 years from [basketball-reference.com](https://www.basketball-reference.com/) and then fed these stats into a number of classification models in scikit-learn to predict wins/losses.
 <br>
 <br>
 
